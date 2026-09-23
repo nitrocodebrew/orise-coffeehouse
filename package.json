@@ -1,0 +1,25 @@
+{
+  "name": "orise-coffeehouse",
+  "version": "1.0.0",
+  "description": "Single page website for Orise Coffeehouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitrocodebrew/orise-coffeehouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nitrocodebrew/orise-coffeehouse/issues"
+  },
+  "homepage": "https://github.com/nitrocodebrew/orise-coffeehouse#readme",
+  "devDependencies": {
+    "webpack": "^5.111.1",
+    "webpack-cli": "^7.2.3"
+  }
+}
